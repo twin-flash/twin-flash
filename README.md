@@ -1,55 +1,28 @@
-## Hi there 👋
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-<h1 align="center">Hi 👋, I'm Mohan</h1>
-<h3 align="center">Backend-Focused Full Stack Developer | Chemical Engineering Student</h3>
-
+## Hi 👋, I'm Mohan
+## Frontend Developer | IT Engineering Student
 ---
+#### 🚀 About Me
 
-## 🚀 About Me
+- ##### 🎓 2nd Year B.Tech IT Engineering (India)
+- ##### 💻 Passionate about Frontend Development
+- ##### 🧠 Love building scalable APIs and productivity tools
+- ##### 🔍 Currently looking for Frontend Internship opportunities
 
-- 🎓 2nd Year Chemical Engineering Student (India)
-- 💻 Passionate about Backend Development
-- 🧠 Love building scalable APIs and productivity tools
-- 🔍 Currently looking for Backend Internship opportunities
 
----
+### 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-## 🛠 Tech Stack
-
-### Backend
-- Python (Flask)
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-
-### Database
-- PostgreSQL
-- MySQL
-- SQLAlchemy
-
-### Frontend
-- React.js
-- HTML5
-- CSS3 (SASS)
-- Tailwind CSS
-
-### Tools
-- Git & GitHub
-- Linux
-- Postman
-- VS Code
+### 🛠️ Tools
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🔥 Featured Projects
 
-### 📝 AI-Powered Notes App
+### 📝 Note App
 > A productivity-focused web notes application with AI grammar correction and summarization.
 
-**Tech Used:** Flask, SQLAlchemy, JavaScript, Local Storage  
+**Tech Used:** Flask, JavaScript, Local Storage  
 **Features:**
 - User authentication
 - Notes CRUD
@@ -59,46 +32,10 @@
 🔗 Repo Link: https://github.com/your-username/ai-notes-app
 
 ---
-
-### 🔐 Authentication System API
-> Secure backend API with JWT-based authentication.
-
-**Tech Used:** Node.js, Express, PostgreSQL  
-**Features:**
-- Register / Login
-- Password hashing
-- JWT tokens
-- Protected routes
-
-🔗 Repo Link: https://github.com/your-username/auth-api
-
----
-
-### 📦 RESTful CRUD API
-> Fully structured REST API with proper error handling and validation.
-
-**Tech Used:** Flask / Express  
-**Features:**
-- CRUD operations
-- Input validation
-- Error middleware
-- Clean folder architecture
-
-🔗 Repo Link: https://github.com/your-username/crud-api
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/your-link
 - Email: your-email@gmail.com
 
 ---
-
-⭐ Always building. Always learning.
+#### ⭐ Always building. Always learning.

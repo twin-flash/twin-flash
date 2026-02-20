@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Mohan
 ## Frontend Developer | IT Engineering Student
----
+
 #### 🚀 About Me
 
 - ##### 🎓 2nd Year B.Tech IT Engineering (India)
@@ -15,7 +15,6 @@
 ### 🛠️ Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
 ## 🔥 Featured Projects
 
@@ -31,11 +30,9 @@
 
 🔗 Repo Link: https://github.com/your-username/ai-notes-app
 
----
 ## 📫 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/your-link
 - Email: your-email@gmail.com
 
----
 #### ⭐ Always building. Always learning.
